@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.xueyu.org.cn</id>
+    <title>雪域</title>
+    <updated>2024-08-26T01:17:00.253Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.xueyu.org.cn"/>
+    <link rel="self" href="https://www.xueyu.org.cn/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://www.xueyu.org.cn/images/avatar.png</logo>
+    <icon>https://www.xueyu.org.cn/favicon.ico</icon>
+    <rights>All rights reserved 2024, 雪域</rights>
+    <entry>
+        <title type="html"><![CDATA[要开学了，忙得很]]></title>
+        <id>https://www.xueyu.org.cn/post/yao-kai-xue-liao-mang-de-hen/</id>
+        <link href="https://www.xueyu.org.cn/post/yao-kai-xue-liao-mang-de-hen/">
+        </link>
+        <updated>2024-08-26T01:02:14.000Z</updated>
+        <content type="html"><![CDATA[<p>要开学了，收拾、收拾东西，准备到学校了，不知道宿舍咋样了，有没有变化，反正就这样吧。<br>
+哈萨克斯坦不知道气候和环境咋样，是不是和我们的新疆一样。<br>
+很期待！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[之前数据丢失了]]></title>
+        <id>https://www.xueyu.org.cn/post/zhi-qian-shu-ju-diu-shi-liao/</id>
+        <link href="https://www.xueyu.org.cn/post/zhi-qian-shu-ju-diu-shi-liao/">
+        </link>
+        <updated>2024-08-08T07:32:43.000Z</updated>
+        <content type="html"><![CDATA[<p>重装电脑后，之前的资料全丢失了，不知道为啥。<br>
+检查了所有配置，发现一处设置在C盘，没有设置在D盘，所以。。。。。<br>
+之前没有注意啊，对这个不了解，又得把所有的配置重新设置，基本上都忘记了，还要重新再来。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于发货问题]]></title>
+        <id>https://www.xueyu.org.cn/post/guan-yu-fa-huo-wen-ti/</id>
+        <link href="https://www.xueyu.org.cn/post/guan-yu-fa-huo-wen-ti/">
+        </link>
+        <updated>2024-08-08T07:32:34.000Z</updated>
+        <content type="html"><![CDATA[<p>目前是这样发货的<br>
+济南、泰安：山东境内<br>
+西安、榆林：陕西境内<br>
+昌吉、喀什：新疆境内<br>
+暂时没有在其他地区设发货地址，有些货物只能从一个地方发货，其他地方发不了。<br>
+像江西暂时发不了货。<br>
+下订单后48小时内发货，部分缺货会延长，需要静心等待。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电子邮箱]]></title>
+        <id>https://www.xueyu.org.cn/post/dian-zi-you-xiang/</id>
+        <link href="https://www.xueyu.org.cn/post/dian-zi-you-xiang/">
+        </link>
+        <updated>2024-08-08T07:32:16.000Z</updated>
+        <content type="html"><![CDATA[<p>已经搭建电子邮箱，但是不知道怎么公开申请。以下域名可以用：<br>
+mycool.work.gd<br>
+cncc.us.kg<br>
+以前用163、腾讯、飞书的企业邮箱，outlook也可以，后来使用专业的webmail邮箱。<br>
+设置防火墙，配置机械设备，感觉麻烦的很。<br>
+本页有问题可以发电子邮箱admin@mycool.work.gd</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费空间和域名]]></title>
+        <id>https://www.xueyu.org.cn/post/mian-fei-kong-jian-he-yu-ming/</id>
+        <link href="https://www.xueyu.org.cn/post/mian-fei-kong-jian-he-yu-ming/">
+        </link>
+        <updated>2024-08-08T07:31:30.000Z</updated>
+        <content type="html"><![CDATA[<p>以下是还能够申请到的空间：<br>
+1、www.freehosting.com（需要代理）<br>
+2、hz.cz（1G空间，流量不限制。可以绑定一个域名：好像免费域名收费了，绑定自己的域名）<br>
+3、51server.top（不能访问，已经屏蔽）<br>
+4、web.lpv4.cn（不能绑定域名）<br>
+5、dnsexit.com（免费域名：如mycool.work.gd，好几个后缀，一年期限，可以续费，不能过期续费，过期续费需要交钱）可以搭建电子邮箱如：admin@mycool.work.gd，一个账号3个域名。<br>
+6、www.serv00.com（3G空间，10年有效期）（4号服务器有问题，申请的时候尽量不要4号服务器）<br>
+7、ligahosting.ro （20G一个月续费一次）<br>
+8、infinityfree.com（*.wuaze.com）需要激活，5 GB空间，每日50000。想用这个自己研究，我没有弄明白，不过一个账号可以建立多个网站（对应不同域名，.wuaze.com二级域名）。<br>
+9、eu.org(免费域名)好用，不过china已经屏蔽，不知道下次啥时候解开，已经用了很久了。<br>
+10、us.kg(免费域名)正常使用，不知道可用时间长短。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[权威型父母的教育特点和可能的影响]]></title>
+        <id>https://www.xueyu.org.cn/post/quan-wei-xing-fu-mu-de-jiao-yu-te-dian-he-ke-neng-de-ying-xiang/</id>
+        <link href="https://www.xueyu.org.cn/post/quan-wei-xing-fu-mu-de-jiao-yu-te-dian-he-ke-neng-de-ying-xiang/">
+        </link>
+        <updated>2024-08-08T07:30:59.000Z</updated>
+        <content type="html"><![CDATA[<p>在当代美国最鼓励哪种育儿方式一文中，果果日记翻译介绍了美国当前流行的几种育儿方式，可以大致的分类为：1、权威型（恩威型）；2、专制型；3、放养型；4、忽略型。其中权威型是最受欢迎也使用最多的教育方式，它比较契合当下生态环境，今儿就来详细介绍权威型教育（也称民主型）父母的特点和可能的影响。</p>
+<p>权威型父母的特点是要求合理、反应迅速。 权威型父母对孩子的期望可能很高，但他们也会给予孩子成功所需的资源和支持。这种风格的父母会倾听孩子的心声，除了限制和公平的管教外，还会给予孩子爱和温暖。 这种教养方式避免惩罚和威胁，而是依靠正面强化等策略。</p>
+<p>权威型教育方式的命名来源<br>
+20 世纪 60 年代，发展心理学家戴安娜·鲍姆林德（Diana Baumrind）描述了三种不同类型的养育方式：专制型、权威型和放任型，这些类型是基于她对学龄前儿童的研究。<br>
+权威型教养方式有时也被称为 &quot;民主型&quot;。 传统上，权威型教养方式被认为是对孩子最有效、最有帮助的教养方式；研究表明，父母应根据个人目标和每个孩子的独特行为灵活运用教养技巧。 您的教养方式是什么？ 这个快速免费的教养方式测验可以帮助您分析您教养孩子的方法，以及是否应该学习一些新的教养方式——去原文链接测。</p>
+<p>权威型教育方式的特点<br>
+鲍姆林德认为，权威型父母有一些共同特点。他们表现出的特征包括：<br>
+在孩子违反纪律时，给予公平、一致的管教<br>
+允许孩子表达意见 鼓励孩子讨论各种选择<br>
+表达温暖和养育之情<br>
+培养孩子的独立性和理智<br>
+倾听孩子的心声<br>
+对孩子的行为施加限制、后果和期望<br>
+虽然权威型父母对孩子的期望很高，但这类父母也倾向于灵活处理，如果出现情有可原的情况，他们会相应地调整对策。这种风格的父母能够根据具体情况、孩子的需要以及其他可能存在的因素来调整自己的方法。因此，管教时要考虑到所有的变数，包括孩子的行为、当时的情况等等。</p>
+<p>权威型和独裁型教育方式对比（民主 vs 专制）<br>
+这些特点可以与专制型教养方式形成对比，后者的特点是期望值过高，却很少给予温暖和指导。<br>
+权威型父母</p>
+<p>命令但支持<br>
+注重强化理想行为<br>
+提供结构、指导和期望<br>
+大量参与孩子的生活<br>
+专制型父母</p>
+<p>严格而缺乏支持<br>
+专注于惩罚错误<br>
+经常严格执行的规则<br>
+很少参与孩子的生活<br>
+咱们举个例子来说明一下。设想有两个小男孩在杂货店偷糖果。 每个男孩的父母是如何处理这种情况的？</p>
+<p>当有权威型父母的男孩终于回到家时，他会受到符合其过失性质的公平惩罚。举例说明在这种情况下威严型父母的教育方式：</p>
+<p>他被禁足两周，必须归还糖果并向店主道歉。<br>
+他的父母向他讲述了为什么偷窃是错误的。<br>
+他的父母很支持他，并鼓励他不要再做出这种行为。<br>
+另一个男孩的父母很专制，所以他的后果看起来很不一样。 举例说明专制型父母在这种情况下的表现：</p>
+<p>他的父亲打了他的屁股。<br>
+他的父亲命令他在房间里过夜，不许吃晚饭。<br>
+从以上的行为操作中，对比一下我们可以知道，父母权威型的孩子受到了管教，但得到了支持和指导，以鼓励他们今后做出理想的行为。作为对比，父母专制的孩子没有得到支持或关爱，也没有得到反馈或指导，不知道为什么偷窃是错误的。</p>
+<p>权威型教育（民主型）的影响<br>
+过去，受鲍姆林德著作的影响，儿童发展专家普遍认为权威型父母是最好的养育方式。研究一再表明，权威型父母养育的孩子往往更能干、更快乐、更成功。鲍姆林德认为，权威型父母的子女：</p>
+<p>对自己学习新事物的能力充满自信<br>
+培养良好的社交技能<br>
+具有良好的情绪控制和调节能力<br>
+倾向于拥有更快乐的性格<br>
+研究表明，权威型父母的养育方式与更好的养育效果有关：</p>
+<p>创造力<br>
+青少年和年轻人的生活满意度<br>
+解决问题的能力<br>
+自尊<br>
+情绪调节<br>
+自立<br>
+人际关系<br>
+自信心</p>
+<p>虽然权威型养育通常被视为最有效的方法，但必须认识到，各种因素都会对发展结果产生影响。</p>
+<p>为什么权威型教育更有效<br>
+权威型父母以身作则，表现出他们期望子女做到的行为。 正因为如此，他们的孩子更有可能将这些行为内化并表现出来。 一致的规则和纪律也能让孩子知道该期待什么。<br>
+这些父母往往能很好地理解和控制情绪。 他们的孩子也会学会管理自己的情绪，学会理解他人。</p>
+<p>权威型父母还允许孩子独立行事。 这种自由让孩子们懂得他们有能力独立完成事情，有助于培养强烈的自尊心和自信心。</p>
+<p>有些父母天生就比较权威，而不是专制或放任。 然而，这并不意味着你不能采用更权威的风格，即使这不是你天生的默认风格。</p>
+<p>试图缓和自己的养育风格可能意味着，在努力养成权威型养育风格的习惯时，你必须时刻注意自己的行为。</p>
+<p>如何成为权威型父母？<br>
+如果您有兴趣成为一名更具权威性的家长，您可以做一些事情来帮助自己。 将这种教养方式视为纪律、情感控制和允许独立之间的一种平衡，可能会有所帮助。<br>
+制定规则，并传达行为准则、界限和期望。<br>
+当孩子违反规则时，要制定后果，当孩子没有达到期望时，要坚持到底。<br>
+对孩子充满同情、温暖、体谅和支持。<br>
+注重与孩子建立牢固的、相互支持的关系，而不是控制他们所做的一切。<br>
+鼓励孩子独立，让他们体验自己行为的自然后果。<br>
+尽量不要过于严厉或过于宽松。您可以先让孩子多做决定，并定期就这些选择进行讨论。随着时间的推移、对孩子的关注和对孩子需求的灵活处理，这种养育方法会变得更加自然。</p>
+<p>权威型养育通常被认为是理想的养育方式。然而，重要的是要认识到，你自己的风格可能是不同风格的混合体，你的风格可能与你的伴侣或共同父母的风格不同。 即使权威型养育方式并不是你自然而然形成的，你也可以采取以下策略……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用github搭建网站]]></title>
+        <id>https://www.xueyu.org.cn/post/shi-yong-github-da-jian-wang-zhan/</id>
+        <link href="https://www.xueyu.org.cn/post/shi-yong-github-da-jian-wang-zhan/">
+        </link>
+        <updated>2024-08-08T07:30:49.000Z</updated>
+        <content type="html"><![CDATA[<p>使用github搭建网站<br>
+1.publii<br>
+感觉轻松，但是不知道为啥我的老实网站CSS无法使用，也就是说没有格式的文字。<br>
+找了一圈也没有找到原因。编辑器三种，方便使用。<br>
+2.gridea<br>
+感觉比publii差点，但是个性化好，好友头像，就是不知道为啥我的文章老是少几篇文章。</p>
+]]></content>
+    </entry>
+</feed>
